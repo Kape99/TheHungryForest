@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Hawk OC
+  m_Controller: {fileID: 9100000, guid: e631d18a942bf45a1ad9d963ff93f877, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 6ed2d52b0bb1b45508188b1b74bcda51, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f4694b6aa41024ab6a53cb8e5a430aed, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 598015695eb1c41f6bd1d3793bcf1c78, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cc5fa285ee0a2479da26076ac7361037, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5bcd7bbdcce7648fc855ac1e9663e994, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3d6613cb1afed4f99b752e82c4c190e0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0628dd3ac4a27464db031b1991520a0e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8662615fc15dd4648ac86916df9a762f, type: 2}

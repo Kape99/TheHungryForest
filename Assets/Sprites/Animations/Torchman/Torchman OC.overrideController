@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Torchman OC
+  m_Controller: {fileID: 9100000, guid: e631d18a942bf45a1ad9d963ff93f877, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 6ed2d52b0bb1b45508188b1b74bcda51, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ad7a6e2d85d0b49f28dcacab97586c61, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 598015695eb1c41f6bd1d3793bcf1c78, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 41ac3d9a268c0447da8d2205183bd533, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5bcd7bbdcce7648fc855ac1e9663e994, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bf0d491912984406da088e1b4b40bc0d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0628dd3ac4a27464db031b1991520a0e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 81b165c96292b4335a491f879ffa4f0a, type: 2}
